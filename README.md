@@ -2,13 +2,7 @@
 
 ## Running prerequisites
 
-**1. Clone repo into local Mac directory:**
-
-```
-git clone (REPO_NAME)
-```
-
-**or** simply download in github.com clicking on Code -> Download Zip
+**1. Download repo into local Mac directory**
 
 **2. Install Python and Pandas library**
 
